@@ -190,7 +190,7 @@
         {
           "Id": "111e4bad-1f5b-49d1-9aa2-d1b072142d14",
           "Name": "I am Where?",
-          "Image": "https://bentor.sharepoint.com/sites/Branding/Assets/learningpathways/map%20location%20pin.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Bentor",
@@ -199,7 +199,7 @@
         {
           "Id": "dfca8f9a-4e87-4ac8-8d79-93a47d67570d",
           "Name": "How To Learn How",
-          "Image": "images/categories/customfeatured.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Bentor",
@@ -208,7 +208,7 @@
         {
           "Id": "1d85f6b6-855f-497b-beea-8079498192d7",
           "Name": "The Toolset",
-          "Image": "images/categories/toolkit.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Bentor",
